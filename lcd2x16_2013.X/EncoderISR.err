@@ -1,0 +1,3 @@
+Error[1027] D:\Dropbox\_Projets_perso\LCD2x16_2013\LCD_I2C_SLAVE\EncoderISR.c 7 : unable to locate 'xc.h'
+Error[1027] D:\Dropbox\_Projets_perso\LCD2x16_2013\LCD_I2C_SLAVE\EncoderISR.h 8 : unable to locate 'xc.h'
+Error[1027] D:\Dropbox\_Projets_perso\LCD2x16_2013\LCD_I2C_SLAVE\EncoderISR.h 24 : unable to locate 'typedefs.h'

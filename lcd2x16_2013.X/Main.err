@@ -1,0 +1,2 @@
+Error[1034] D:\Dropbox\__Projets_perso\shared\zlcd_init.h 16 : previous definition of macro 'DATA_PORT' does not agree
+Error[1034] D:\Dropbox\__Projets_perso\shared\zlcd_init.h 17 : previous definition of macro 'TRIS_DATA_PORT' does not agree
